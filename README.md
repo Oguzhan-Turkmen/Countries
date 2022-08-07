@@ -14,7 +14,7 @@
 * Coil
 
 
-!!! You need to add Rapidapi key in util/Consts class !!!
+!!! You need to add your Rapidapi key in util/Consts class !!!
 
 
 ## App Architecture
