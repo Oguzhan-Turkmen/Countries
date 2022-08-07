@@ -6,6 +6,7 @@
         <entry key="..\:/AndroidProjects/Countries/app/src/main/res/drawable/ic_favorite_foreground.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/Countries/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/Countries/app/src/main/res/layout/fragment_detail.xml" value="0.22418478260869565" />
+        <entry key="..\:/AndroidProjects/Countries/app/src/main/res/layout/fragment_detail_web.xml" value="0.23645833333333333" />
         <entry key="..\:/AndroidProjects/Countries/app/src/main/res/layout/fragment_home.xml" value="0.11499493414387031" />
         <entry key="..\:/AndroidProjects/Countries/app/src/main/res/layout/fragment_saved_country.xml" value="0.16799999999999998" />
         <entry key="..\:/AndroidProjects/Countries/app/src/main/res/layout/item_countries.xml" value="0.264" />

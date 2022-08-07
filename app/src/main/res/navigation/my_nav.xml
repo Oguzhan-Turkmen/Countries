@@ -26,5 +26,21 @@
         android:id="@+id/detailFragment"
         android:name="com.oguzhanturkmen.countries.ui.detailFragment"
         android:label="fragment_detail"
-        tools:layout="@layout/fragment_detail" />
+        tools:layout="@layout/fragment_detail" >
+        <argument
+            android:name="country"
+            app:argType="com.oguzhanturkmen.countries.model.Countries.Country" />
+        <action
+            android:id="@+id/action_detailFragment_to_detailWebFragment"
+            app:destination="@id/detailWebFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailWebFragment"
+        android:name="com.oguzhanturkmen.countries.ui.detailWebFragment"
+        android:label="fragment_detail_web"
+        tools:layout="@layout/fragment_detail_web" >
+        <argument
+            android:name="country2"
+            app:argType="com.oguzhanturkmen.countries.model.Countries.Country" />
+    </fragment>
 </navigation>
