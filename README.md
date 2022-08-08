@@ -2,6 +2,7 @@
 
 
 * Retrofit 
+* Moshi
 * Dagger-Hilt
 * Coroutines
 * ViewModel
